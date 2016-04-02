@@ -1,0 +1,30 @@
+{
+  "movies": [
+{
+  "id": 1,
+  "thumb": "http://skounis-dev.s3.amazonaws.com/mobile-apps/supermodular/batman-v-superman.jpg",
+  "title": "Batman v Superman: Dawn of Justice",
+  "body": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs."
+}, {
+  "id": 2,
+  "thumb": "http://skounis-dev.s3.amazonaws.com/mobile-apps/supermodular/civil-war.jpg",
+  "title": "Captain America: Civil War",
+  "body": "Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man."
+}, {
+  "id": 3,
+  "thumb": "http://skounis-dev.s3.amazonaws.com/mobile-apps/supermodular/x-men.jpg",
+  "title": "X-Men: Apocalypse",
+  "body": "With the emergence of the world's first mutant, Apocalypse, the X-Men must unite to defeat his extinction level plan."
+}, {
+  "id": 4,
+  "thumb": "http://skounis-dev.s3.amazonaws.com/mobile-apps/supermodular/suicide-squad.jpg",
+  "title": "Suicide Squad",
+  "body": "A secret government agency recruits imprisoned supervillains to execute dangerous black ops missions in exchange for clemency."
+}, {
+  "id": 5,
+  "thumb": "http://skounis-dev.s3.amazonaws.com/mobile-apps/supermodular/hologram-of-king.jpg",
+  "title": "A Hologram for the King",
+  "body": "A failed American businessman looks to recoup his losses by traveling to Saudi Arabia and selling his idea to a wealthy monarch."
+}
+]
+}

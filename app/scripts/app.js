@@ -19,6 +19,7 @@ angular.module('starter', [
 	'supermodular.popover-menu',
 	'supermodular.native-scrolling',
 	'supermodular.new-slide-box',
+	'supermodular.movies',
 	'gMaps',
 	'ngCordova'
 ])
